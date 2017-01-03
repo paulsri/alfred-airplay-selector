@@ -25,4 +25,8 @@ In Alfred type the following:
 > To Disable Apple TV:
 > `ap off` or `ap blah`
 
-*Note: You can type anything as an argument, just not empty string to disable AirPlay.
+*Note: You can type anything as an argument, just not empty string to disable AirPlay.*
+
+## thanks
+
+Thank you, [qorbani](http://superuser.com/questions/456599/how-can-i-enable-mountain-lion-airplay-mirroring-through-command-line), and [AirControl](https://github.com/AdRoll/AirControl).
