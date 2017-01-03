@@ -29,4 +29,4 @@ In Alfred type the following:
 
 ## thanks
 
-Thank you, [qorbani](http://superuser.com/questions/456599/how-can-i-enable-mountain-lion-airplay-mirroring-through-command-line), and [AirControl](https://github.com/AdRoll/AirControl).
+Thank you, [qorbani](http://superuser.com/questions/456599/how-can-i-enable-mountain-lion-airplay-mirroring-through-command-line), [AirControl](https://github.com/AdRoll/AirControl), and [n8henrie](https://n8henrie.com/2013/03/a-strategy-for-ui-scripting-in-applescript/).
