@@ -19,7 +19,7 @@ tell application "System Events"
   end tell
 end tell
 tell application "System Preferences"
-  delay 3.0
+  delay 5.0
   quit
 end tell
 EOF
